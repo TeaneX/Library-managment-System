@@ -18,5 +18,3 @@ A complete Library Management System project with source code built in C# Window
 - **UI**: Windows Forms
 - **Database**: Text Files
 - **IDE**: Visual Studio
-
-## Project Structure
