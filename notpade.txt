@@ -1,0 +1,40 @@
+Library managment system 
+
+Book
+.Add new book
+..book name 
+..Book author Name 
+..Book publication
+..Book purchase Date 
+..Book Price
+..Book quantity
+
+view Books
+..data grid viwe
+
+Student
+..student name
+..Enrollment No
+..Depatment
+..Student Semester
+..Student Contact
+..Student Email
+
+Issue Books
+..Student Name
+..Department
+..Student Semester
+..Student Contact
+..Student Email
+..Book Name
+..Book Issue Date
+
+Return Books
+..Book name
+..Book issue Date
+..Book Return Date
+
+complete book detail
+2 date gridviwe 
+..issued Book
+..Returned Book
